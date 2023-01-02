@@ -6,4 +6,4 @@ I am going to try analyzing World Cup 2022 data from https://www.kaggle.com/data
 
 Main goals are:
   1) Is there a relation between possesion and goals scored
-  2) Visualizing possesions
+  2) Is there a relation between possession in contest and goals scored in game
